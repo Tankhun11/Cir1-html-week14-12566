@@ -1,0 +1,23 @@
+.box1{
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+
+    padding: 10px;
+    
+    margin: 10px;
+
+    border: 10px solid rgb(212, 0, 255); 
+
+}
+#box2{
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    
+    padding: 10px;
+
+    margin: 50px;
+
+    border: 10px solid rgb(255, 0, 119);
+}
